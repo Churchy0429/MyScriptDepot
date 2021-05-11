@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: a295835d4f2be7b4dac303f3716f64aa
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Run
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: PT_Medieval_Female_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PT_Medieval_Female_Spine3
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: PT_Medieval_Female_Peasant_01_a@Run(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Hips
+      parentName: PT_Medieval_Female_Peasant_01_a@Run(Clone)
+      position: {x: -0.00225093, y: 0.9378888, z: 0.038135912}
+      rotation: {x: -0.09701735, y: -0.009452477, z: 0.0030271113, w: 0.99523324}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Spine
+      parentName: PT_Medieval_Female_Hips
+      position: {x: -0, y: 0.08352199, z: -0.007203}
+      rotation: {x: 0.12381674, y: 0.0033346158, z: -0.005291501, w: 0.9922854}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Spine2
+      parentName: PT_Medieval_Female_Spine
+      position: {x: -0, y: 0.117736, z: -0.003097}
+      rotation: {x: 0.06555309, y: 0.0052290866, z: 0.0035477674, w: 0.9978291}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Spine3
+      parentName: PT_Medieval_Female_Spine2
+      position: {x: -0, y: 0.091901995, z: -0.012948999}
+      rotation: {x: 0.13439292, y: 0.0089034485, z: 0.0017848754, w: 0.99088657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightShoulder
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: 0.055697996, y: 0.058797996, z: -0.0074809995}
+      rotation: {x: -0.39469355, y: 0.57895756, z: 0.49073845, w: 0.5178812}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightArm
+      parentName: PT_Medieval_Female_RightShoulder
+      position: {x: -0.014263, y: -0.103823, z: 0.039726}
+      rotation: {x: -0.07588622, y: -0.18792309, z: -0.061079435, w: 0.977341}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightForeArm
+      parentName: PT_Medieval_Female_RightArm
+      position: {x: 0.000166, y: -0.25215998, z: 0.0131399995}
+      rotation: {x: -0.059799396, y: -0.018896936, z: -0.00025091317, w: 0.9980315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHand
+      parentName: PT_Medieval_Female_RightForeArm
+      position: {x: -0.009856, y: -0.258923, z: -0.017022}
+      rotation: {x: 0.30635098, y: -0.06913417, z: 0.19227387, w: 0.9297313}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandThumb1
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: -0.053244, y: -0.032605, z: -0.02039}
+      rotation: {x: -0.43464395, y: -0.42370868, z: -0.048982132, w: 0.7931938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandThumb2
+      parentName: PT_Medieval_Female_RightHandThumb1
+      position: {x: -0.001079, y: -0.054187, z: 0.0010609999}
+      rotation: {x: -0.015134007, y: -0.014214724, z: -0.21518849, w: 0.97635186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandThumb3
+      parentName: PT_Medieval_Female_RightHandThumb2
+      position: {x: 0.015695, y: -0.030124, z: -0.000293}
+      rotation: {x: -0.07131378, y: 0, z: -0, w: 0.9974539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandIndex1
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: -0.042904, y: -0.091826, z: 0.011949}
+      rotation: {x: -0.21720603, y: 0.015809625, z: -0.1410593, w: 0.9657505}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandIndex2
+      parentName: PT_Medieval_Female_RightHandIndex1
+      position: {x: 0.000753, y: -0.045904998, z: -0.006329}
+      rotation: {x: 0.0446015, y: 0.0012264664, z: -0.049017914, w: 0.9978008}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandIndex3
+      parentName: PT_Medieval_Female_RightHandIndex2
+      position: {x: 0.004249, y: -0.03704, z: -0.0017829998}
+      rotation: {x: 0.16408354, y: -0, z: -0, w: 0.98644644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandMiddle1
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: -0.014641, y: -0.094719, z: 0.018279}
+      rotation: {x: -0.18144009, y: 0.009438919, z: -0.14563575, w: 0.97251254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandMiddle2
+      parentName: PT_Medieval_Female_RightHandMiddle1
+      position: {x: 0.0038029999, y: -0.044341996, z: -0.005088}
+      rotation: {x: 0.0672715, y: -0.004474276, z: 0.0018214164, w: 0.99772304}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandMiddle3
+      parentName: PT_Medieval_Female_RightHandMiddle2
+      position: {x: 0.003511, y: -0.043944, z: -0.002097}
+      rotation: {x: 0.045742203, y: -0, z: -0, w: 0.9989533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandRing1
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: 0.012139999, y: -0.090968, z: 0.015326999}
+      rotation: {x: -0.0025890172, y: -0.011732571, z: -0.14676595, w: 0.9890983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandRing2
+      parentName: PT_Medieval_Female_RightHandRing1
+      position: {x: 0.004799, y: -0.043329, z: 0.001225}
+      rotation: {x: 0.02034406, y: -0.0021248935, z: 0.019824034, w: 0.9995943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandRing3
+      parentName: PT_Medieval_Female_RightHandRing2
+      position: {x: 0.002813, y: -0.040388998, z: 0.00015699999}
+      rotation: {x: 0.041252237, y: -0, z: -0, w: 0.9991488}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandPinky1
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: 0.031324, y: -0.088978, z: 0.010728}
+      rotation: {x: 0.11883599, y: 0.09684464, z: -0.111683264, w: 0.98184824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandPinky2
+      parentName: PT_Medieval_Female_RightHandPinky1
+      position: {x: -0.00012, y: -0.039077997, z: 0.010787999}
+      rotation: {x: -0.20650639, y: 0.006077804, z: 0.038016524, w: 0.97768754}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightHandPinky3
+      parentName: PT_Medieval_Female_RightHandPinky2
+      position: {x: -0.002024, y: -0.025141, z: -0.0055299997}
+      rotation: {x: -0.011456964, y: 0, z: -0, w: 0.9999344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Right_Hand_Weapon_slot
+      parentName: PT_Medieval_Female_RightHand
+      position: {x: -0.01935, y: -0.09911, z: -0.023399}
+      rotation: {x: 0.65023506, y: 0.7249254, z: -0.18280272, w: 0.13513237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Neck
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: -0, y: 0.13822, z: -0.004176}
+      rotation: {x: -0.13201332, y: 0.0021172385, z: -0.014092055, w: 0.99114555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Head
+      parentName: PT_Medieval_Female_Neck
+      position: {x: -0.001451, y: 0.080072, z: 0.024501}
+      rotation: {x: -0.061506037, y: 0.0015959411, z: -0.0129324095, w: 0.99802166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_HeadTop
+      parentName: PT_Medieval_Female_Head
+      position: {x: 0.001451, y: 0.223512, z: 0.014665}
+      rotation: {x: -0.061506245, y: 0.0015959605, z: -0.012932399, w: 0.99802166}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_HeadTopFeathers
+      parentName: PT_Medieval_Female_HeadTop
+      position: {x: -0, y: 0.079587, z: -0.065345}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Quiver_slot
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: 0.06647699, y: -0.007799, z: -0.175051}
+      rotation: {x: 0.0039481497, y: 0.0003199927, z: -0.27619633, w: 0.9610931}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Medium_Bow_slot
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: -0.060861, y: -0.023988, z: -0.163104}
+      rotation: {x: 0.41191584, y: -0.07447672, z: 0.87514335, w: 0.24269879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Long_Bow_slot
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: -0.097407, y: -0.032408, z: -0.15668699}
+      rotation: {x: 0.21945149, y: 0.89954937, z: 0.1054289, w: -0.36267987}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftShoulder
+      parentName: PT_Medieval_Female_Spine3
+      position: {x: -0.055697996, y: 0.058797996, z: -0.0074809995}
+      rotation: {x: 0.46915424, y: -0.5379386, z: 0.56147206, w: 0.4186473}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftArm
+      parentName: PT_Medieval_Female_LeftShoulder
+      position: {x: 0.014263, y: 0.103823, z: -0.039725}
+      rotation: {x: -0.02213837, y: -0.28117564, z: -0.07717963, w: 0.95629156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftForeArm
+      parentName: PT_Medieval_Female_LeftArm
+      position: {x: -0.00016499999, y: 0.252159, z: -0.0131439995}
+      rotation: {x: -0.058613308, y: 0.13730285, z: 0.0019210065, w: 0.9887915}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHand
+      parentName: PT_Medieval_Female_LeftForeArm
+      position: {x: 0.009856, y: 0.258924, z: 0.017022}
+      rotation: {x: 0.29022875, y: -0.068132244, z: 0.111323744, w: 0.948015}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandThumb1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: 0.053242996, y: 0.032605, z: 0.020392}
+      rotation: {x: -0.42483085, y: -0.42764348, z: -0.098587036, w: 0.7917831}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandThumb2
+      parentName: PT_Medieval_Female_LeftHandThumb1
+      position: {x: 0.001079, y: 0.054187, z: -0.0010589999}
+      rotation: {x: -0.01512962, y: -0.014210994, z: -0.21518672, w: 0.9763523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandThumb3
+      parentName: PT_Medieval_Female_LeftHandThumb2
+      position: {x: -0.015695, y: 0.030124, z: 0.000294}
+      rotation: {x: -0.07131378, y: 0, z: -0, w: 0.9974539}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandIndex1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: 0.042904, y: 0.09182499, z: -0.011945999}
+      rotation: {x: -0.2171906, y: 0.015813177, z: -0.1410307, w: 0.965758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandIndex2
+      parentName: PT_Medieval_Female_LeftHandIndex1
+      position: {x: -0.000753, y: 0.045906, z: 0.0063279998}
+      rotation: {x: 0.044571634, y: 0.0012260248, z: -0.049029108, w: 0.9978016}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandIndex3
+      parentName: PT_Medieval_Female_LeftHandIndex2
+      position: {x: -0.00425, y: 0.03704, z: 0.001785}
+      rotation: {x: 0.16408354, y: -0, z: -0, w: 0.98644644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandMiddle1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: 0.01464, y: 0.094719, z: -0.018274}
+      rotation: {x: -0.18136531, y: 0.00943556, z: -0.14562708, w: 0.97252786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandMiddle2
+      parentName: PT_Medieval_Female_LeftHandMiddle1
+      position: {x: -0.0038029999, y: 0.044341, z: 0.005086}
+      rotation: {x: 0.067262866, y: -0.0044803703, z: 0.0018251928, w: 0.99772364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandMiddle3
+      parentName: PT_Medieval_Female_LeftHandMiddle2
+      position: {x: -0.003511, y: 0.043944, z: 0.002096}
+      rotation: {x: 0.045742203, y: -0, z: -0, w: 0.9989533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandRing1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: -0.012139999, y: 0.090968, z: -0.015329}
+      rotation: {x: -0.0026315143, y: -0.011726598, z: -0.14677389, w: 0.98909706}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandRing2
+      parentName: PT_Medieval_Female_LeftHandRing1
+      position: {x: -0.0047999998, y: 0.043330997, z: -0.001219}
+      rotation: {x: 0.020377139, y: -0.0021218716, z: 0.019822044, w: 0.9995936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandRing3
+      parentName: PT_Medieval_Female_LeftHandRing2
+      position: {x: -0.0028139998, y: 0.040388998, z: -0.000154}
+      rotation: {x: 0.041252237, y: -0, z: -0, w: 0.9991488}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandPinky1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: -0.031324, y: 0.088977, z: -0.010725}
+      rotation: {x: 0.1188612, y: 0.09685339, z: -0.11167973, w: 0.9818448}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandPinky2
+      parentName: PT_Medieval_Female_LeftHandPinky1
+      position: {x: 0.00012, y: 0.039077997, z: -0.010787999}
+      rotation: {x: -0.20654449, y: 0.006080564, z: 0.03800232, w: 0.97768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftHandPinky3
+      parentName: PT_Medieval_Female_LeftHandPinky2
+      position: {x: 0.002023, y: 0.025141, z: 0.0055319997}
+      rotation: {x: -0.011456964, y: 0, z: -0, w: 0.9999344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Right_Hand_Weapon_slot1
+      parentName: PT_Medieval_Female_LeftHand
+      position: {x: 0.019349, y: 0.099109, z: 0.0234}
+      rotation: {x: 0.65023506, y: 0.7249254, z: -0.18280272, w: 0.13513237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightUpLeg
+      parentName: PT_Medieval_Female_Hips
+      position: {x: 0.101622, y: -0.103911996, z: -0.010342999}
+      rotation: {x: -0.00566153, y: -0.013850587, z: 0.9992388, w: -0.03602712}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightLeg
+      parentName: PT_Medieval_Female_RightUpLeg
+      position: {x: 0.026270999, y: 0.433217, z: 0.01151}
+      rotation: {x: -0.29691726, y: -0.17067067, z: 0.013197862, w: 0.9394347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightFoot
+      parentName: PT_Medieval_Female_RightLeg
+      position: {x: 0.000119, y: 0.39947298, z: -0.005716}
+      rotation: {x: 0.85454595, y: -0.044887226, z: -0.16372856, w: 0.49084556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_RightToe
+      parentName: PT_Medieval_Female_RightFoot
+      position: {x: 0.000275, y: 0.140358, z: 0.015257999}
+      rotation: {x: 0.3227956, y: -0.08884283, z: 0.030450359, w: 0.9417976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Second_Weapon_slot
+      parentName: PT_Medieval_Female_RightUpLeg
+      position: {x: -0.033577, y: -0.030009998, z: 0.095211}
+      rotation: {x: 0.89663106, y: 0.15798506, z: 0.41029155, w: 0.05248244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftUpLeg
+      parentName: PT_Medieval_Female_Hips
+      position: {x: -0.101622, y: -0.103913, z: -0.010342999}
+      rotation: {x: 0.05044672, y: 0.98900294, z: 0.016763216, w: -0.13801204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftLeg
+      parentName: PT_Medieval_Female_LeftUpLeg
+      position: {x: -0.026270999, y: -0.433217, z: -0.01151}
+      rotation: {x: -0.27809754, y: -0.09314657, z: -0.026609555, w: 0.95565546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftFoot
+      parentName: PT_Medieval_Female_LeftLeg
+      position: {x: -0.000119, y: -0.39947298, z: 0.005716}
+      rotation: {x: 0.5881833, y: -0.05894874, z: 0.07821976, w: 0.8027747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_LeftToe
+      parentName: PT_Medieval_Female_LeftFoot
+      position: {x: -0.000275, y: -0.140358, z: -0.015257999}
+      rotation: {x: 0.3227956, y: -0.08884283, z: 0.030450359, w: 0.9417976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PT_Medieval_Female_Second_Weapon_slot1
+      parentName: PT_Medieval_Female_LeftUpLeg
+      position: {x: 0.033577, y: 0.030011, z: -0.095211}
+      rotation: {x: 0.89663106, y: 0.15798506, z: 0.41029155, w: 0.05248244}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
