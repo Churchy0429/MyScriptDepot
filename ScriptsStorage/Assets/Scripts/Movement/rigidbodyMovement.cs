@@ -14,13 +14,13 @@ public class rigidbodyMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        anim = GetComponentInChildren<Animator>();
+        //anim = GetComponentInChildren<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        anim.SetFloat("Speed", rb.velocity.magnitude);
+        //anim.SetFloat("Speed", rb.velocity.magnitude);
         Debug.DrawRay(transform.position, Vector3.down * jumpHeight);
         Ray ray = new Ray(transform.position, Vector3.down);
         RaycastHit rHit;
